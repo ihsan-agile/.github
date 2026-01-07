@@ -4,6 +4,8 @@
 
 Ihsan Agile overlays existing Agile methods (Scrum, Kanban, Scrumban, SAFe) with principles drawn from the Qur'an and Sunnah, turning everyday work into a form of ʿibādah (worship) through niyyah (intention), iḥsān (excellence with God-consciousness), and shūrā (consultation).
 
+Ihsan Agile is an open, non-commercial framework stewarded by its founding author. It is shared under the CC BY-SA licence and developed through published principles, empirical practice, and scholarly engagement.
+
 ## 📖 The Ihsan Agile Guide (Version 1.0)
 
 The Ihsan Agile Guide provides a framework for Muslim workplaces, Islamic institutions, fintech companies, and development teams to align their delivery practices with Islamic values.
