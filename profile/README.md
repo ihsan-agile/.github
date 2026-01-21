@@ -6,11 +6,11 @@ Ihsan Agile overlays existing Agile methods (Scrum, Kanban, Scrumban, SAFe) with
 
 Ihsan Agile is an open, non-commercial framework stewarded by its founding author. It is shared under the CC BY-SA licence and developed through published principles, empirical practice, and scholarly engagement.
 
-## 📖 The Ihsan Agile Guide (Version 1.0)
+## 📖 The Ihsan Agile Guide (Version 1.1)
 
 The Ihsan Agile Guide provides a framework for Muslim workplaces, Islamic institutions, fintech companies, and development teams to align their delivery practices with Islamic values.
 
-**[Download the Guide](https://github.com/ihsan-agile/ihsan-agile-guide) and [or through Zenodo](https://zenodo.org/records/17794838)** | **[Visit ihsanagile.org](https://ihsanagile.org)**
+**[Download the Guide](https://github.com/ihsan-agile/ihsan-agile-guide) and [or through Zenodo](https://zenodo.org/records/17794837)** | **[Visit ihsanagile.org](https://ihsanagile.org)**
 
 ### What's Inside
 
@@ -30,9 +30,34 @@ The Ihsan Agile Guide provides a framework for Muslim workplaces, Islamic instit
 
 ## 🤝 We Need Early Adopters
 
-**Version 1.0 is ready. Now we need your practice.**
+**Version 1.1 is ready. Now we need your practice.**
 
-The Core Principles are grounded in Islamic sources. The practices are designed from consultancy experience. But we haven't yet piloted the Ihsan Agile Facilitator role comprehensively in live organizations.
+Ihsan Agile is designed to be tried in small ways, within the Agile approaches teams already use. 
+
+Ihsan Agile is built on a simple Islamic premise:
+accountability begins with intention, not scale.
+
+If you’re part of a Muslim-led team, you can start with a single practice for a single sprint. Use what works for you and experiment.
+
+For example:
+
+- a short niyyah check-in at Sprint Planning
+(“Why are we building this? Who benefits?”)
+
+- a brief muḥāsabah reflection in Retrospectives
+(“Where did we act with iḥsān? Where did we fall short?”)
+
+- adding ethical completeness, justice, transparency, stewardship, to your Definition of Done
+
+Ihsan Agile calls for no new role hires and demands no methodology change. It overlays onto Agile ways of working already used (Scrum, Kanban, and SAFe).
+
+In Islamic ethics, responsibility (amānah) is borne through intention and honesty, even when systems are complex and outcomes appear beneficial.
+
+Teams can stop after a single practice, or continue only insofar as reflection remains helpful.
+
+The aim is not to perfect delivery, but to remain answerable for how and why we build, even under pressure.
+
+If you’re curious, you’re welcome to try one small practice and see what it surfaces.
 
 ### Ideal Pilot Organizations
 
@@ -44,18 +69,12 @@ The Core Principles are grounded in Islamic sources. The practices are designed 
 
 ### What We're Offering
 
-- Facilitation support as you pilot the IAF role
+- Facilitation support as you pilot Ihsan Agile practices
 - Adaptation to your specific context
 - Documentation support
 - Connection to the Ihsan Agile community
 
-### What We're Asking
-
-- Willingness to experiment (2-3 sprint cycles minimum)
-- At least one person who can dedicate time to the IAF role
-- Feedback to help refine the framework
-
-**📧 Express Interest**: [getinvolved@ihsanagile.org](mailto:getinvolved@ihsanagile.org)
+**📧 Express Interest**: email [getinvolved@ihsanagile.org](mailto:getinvolved@ihsanagile.org) or fill out [this form](https://tally.so/r/7Rb7dP) 
 
 ## 🌟 Why Ihsan Agile?
 
@@ -113,6 +132,6 @@ May this work be a source of benefit for the ummah and all who seek to align the
 *Bismillāhir-Raḥmānir-Raḥīm*  
 *In the name of Allah, the Most Gracious, the Most Merciful*
 
-**The Ihsan Agile™ Guide** (Version 1.0)  
-© 2025 Dr. David Wallace-Hare  
+**The Ihsan Agile™ Guide** (Version 1.1)  
+© 2025-26 Dr. David Wallace-Hare  
 Licensed under CC BY-SA 4.0
