@@ -132,6 +132,6 @@ May this work be a source of benefit for the ummah and all who seek to align the
 *Bismillāhir-Raḥmānir-Raḥīm*  
 *In the name of Allah, the Most Gracious, the Most Merciful*
 
-**The Ihsan Agile™ Guide** (Version 1.1)  
+**The Ihsan Agile Guide** (Version 1.1)  
 © 2025-26 Dr. David Wallace-Hare  
 Licensed under CC BY-SA 4.0
