@@ -10,7 +10,7 @@ Ihsan Agile is an open, non-commercial framework stewarded by its founding autho
 
 The Ihsan Agile Guide provides a framework for Muslim workplaces, Islamic institutions, fintech companies, and development teams to align their delivery practices with Islamic values.
 
-**[Download the Guide](https://github.com/ihsan-agile/ihsan-agile-guide)** | **[or through Zenodo](https://zenodo.org/records/17794837)** | **[Visit ihsanagile.org](https://ihsanagile.org)**
+**[Download the Guide](https://github.com/ihsan-agile/ihsan-agile-guide)** | **[or through Zenodo](https://zenodo.org/records/17794837)** 
 
 ### What's Inside
 
@@ -86,7 +86,7 @@ If you're curious, you're welcome to try one small practice and see what it surf
 - Documentation support
 - Connection to the Ihsan Agile community
 
-**📧 Express Interest**: email [getinvolved@ihsanagile.org](mailto:getinvolved@ihsanagile.org) or fill out [this form](https://tally.so/r/7Rb7dP)
+**📧 Express Interest**: email [ihsanagile@purelymail.com](mailto:ihsanagile@purelymail.com) 
 
 ## 🌟 Why Ihsan Agile?
 
@@ -131,7 +131,6 @@ When developers write accessible code, they ensure users can access the product 
 ## 📚 Resources
 
 - **Guide Repository**: [ihsan-agile-guide](https://github.com/ihsan-agile/ihsan-agile-guide)
-- **Website**: [ihsanagile.org](https://ihsanagile.org)
 - **Zenodo**: [10.5281/zenodo.17794837](https://doi.org/10.5281/zenodo.17794837)
 - **License**: CC BY-SA 4.0 (free to use, adapt, and share)
 
